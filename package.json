@@ -1,0 +1,20 @@
+{
+  "name": "home-work-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npx nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@denyskuz",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "shortid": "^2.2.16"
+  },
+  "dependencies": {
+    "yargs": "^17.6.0"
+  }
+}
